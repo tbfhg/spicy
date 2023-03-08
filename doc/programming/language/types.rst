@@ -140,7 +140,7 @@ This type supports the :ref:`pack/unpack operators <packing>`.
 Interval
 --------
 
-Am interval value represents a period of time. Intervals are stored
+An interval value represents a period of time. Intervals are stored
 with nanosecond resolution, which is retained across all calculations.
 
 .. rubric:: Type
